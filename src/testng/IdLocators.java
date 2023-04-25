@@ -15,7 +15,7 @@ public class IdLocators {
 	  Thread.sleep(2000);
 	  driver.findElement(By.name("name")).sendKeys("Lavanya");
 	  Thread.sleep(3000);
-	  driver.findElement(By.id("edit-pass")).sendKeys("yashwanth");
+	  driver.findElement(By.id("edit-pass")).sendKeys("karthikeya");
 	  Thread.sleep(2000);
 	  driver.findElement(By.className("form-submit")).click();
 	  
