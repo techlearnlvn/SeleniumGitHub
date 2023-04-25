@@ -6,7 +6,7 @@ public class FirstProgram {
 		
 		System.out.println("Hello World");
 		
-		System.out.println("Hello Selenium with Java");
+		System.out.println("Hello Selenium with Java & Git");
 
 	}
 
