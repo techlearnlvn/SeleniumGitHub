@@ -13,7 +13,7 @@ static WebDriver driver;
 		driver.get("https://www.google.com");
 		Thread.sleep(3000);
 		driver.navigate().to("https://www.facebook.com");
-		Thread.sleep(2000);
+		Thread.sleep(5000);
 		driver.navigate().back();
 		Thread.sleep(3000);
 		driver.navigate().forward();
